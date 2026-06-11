@@ -7,18 +7,6 @@
   },
   "albums": [
     {
-      "name": "Menari Dengan Bayangan",
-      "desc": "Single",
-      "songs": [
-        {
-          "title": "Menari Dengan Bayangan",
-          "artist": "Hindia",
-          "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
-          "foto_key": "mdb"
-        }
-      ]
-    },
-    {
       "name": "lhab",
       "desc": "Single",
       "songs": [
@@ -26,12 +14,14 @@
           "title": "Evaluasi",
           "artist": "Hindia",
           "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "lyrics": "",
           "foto_key": "lhab"
         },
         {
           "title": "blab",
           "artist": "Hindia",
           "url": "ajsj",
+          "lyrics": "",
           "foto_key": "lhab"
         }
       ]
@@ -44,6 +34,7 @@
           "title": "Doves",
           "artist": "Hindia",
           "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "lyrics": "",
           "foto_key": "doves"
         }
       ]
@@ -56,18 +47,21 @@
           "title": "Awal Perjalanan",
           "artist": "Hindia",
           "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "lyrics": "",
           "foto_key": "awal"
         },
         {
           "title": "Tengah Jalan",
           "artist": "Hindia",
           "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "lyrics": "",
           "foto_key": "tengah"
         },
         {
           "title": "Titik Akhir",
           "artist": "Hindia",
           "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "lyrics": "",
           "foto_key": "akhir"
         }
       ]
@@ -80,18 +74,21 @@
           "title": "Pembuka",
           "artist": "Hindia",
           "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "lyrics": "",
           "foto_key": "pembuka"
         },
         {
           "title": "Kenangan",
           "artist": "Hindia",
           "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "lyrics": "",
           "foto_key": "kenangan"
         },
         {
           "title": "Penutup",
           "artist": "Hindia",
           "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "lyrics": "",
           "foto_key": "penutup"
         }
       ]
