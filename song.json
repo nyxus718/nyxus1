@@ -5,5 +5,19 @@
     "doves": "https://o.uguu.se/uMRDZKMi.jpg",
     "single": "https://raw.githubusercontent.com/nyxus718/nyxus1/main/covers/doves.jpg"
   },
-  "albums": []
+  "albums": [
+    {
+      "name": "Doves '25 on blank canvas",
+      "desc": "",
+      "songs": [
+        {
+          "title": "Kids",
+          "artist": "Hindia",
+          "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "lyrics": "",
+          "foto_key": "doves"
+        }
+      ]
+    }
+  ]
 }
