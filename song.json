@@ -1,24 +1,93 @@
 {
+  "foto": {
+    "lhab": "https://n.uguu.se/AVztEVgN.jpg",
+    "mdb": "https://o.uguu.se/ZedaAain.jpg",
+    "doves": "https://o.uguu.se/uMRDZKMi.jpg",
+    "single": "https://raw.githubusercontent.com/nyxus718/nyxus1/main/covers/doves.jpg"
+  },
   "albums": [
     {
-      "name": "Album 1",
+      "name": "Menari Dengan Bayangan",
+      "desc": "Single",
       "songs": [
-        { "title": "Judul Lagu 1", "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3" },
-        { "title": "Judul Lagu 2", "url": "https://...mp3" }
+        {
+          "title": "Menari Dengan Bayangan",
+          "artist": "Hindia",
+          "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "foto_key": "menari"
+        }
       ]
     },
     {
-      "name": "Album 2",
+      "name": "Evaluasi",
+      "desc": "Single",
       "songs": [
-        { "title": "Judul Lagu 3", "url": "https://...mp3" },
-        { "title": "Judul Lagu 4", "url": "https://...mp3" }
+        {
+          "title": "Evaluasi",
+          "artist": "Hindia",
+          "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "foto_key": "evaluasi"
+        }
       ]
     },
     {
-      "name": "Album 3",
+      "name": "Doves",
+      "desc": "Single",
       "songs": [
-        { "title": "Judul Lagu 5", "url": "https://...mp3" },
-        { "title": "Judul Lagu 6", "url": "https://...mp3" }
+        {
+          "title": "Doves",
+          "artist": "Hindia",
+          "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "foto_key": "doves"
+        }
+      ]
+    },
+    {
+      "name": "Perjalanan",
+      "desc": "Album",
+      "songs": [
+        {
+          "title": "Awal Perjalanan",
+          "artist": "Hindia",
+          "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "foto_key": "awal"
+        },
+        {
+          "title": "Tengah Jalan",
+          "artist": "Hindia",
+          "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "foto_key": "tengah"
+        },
+        {
+          "title": "Titik Akhir",
+          "artist": "Hindia",
+          "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "foto_key": "akhir"
+        }
+      ]
+    },
+    {
+      "name": "Laguku",
+      "desc": "Album",
+      "songs": [
+        {
+          "title": "Pembuka",
+          "artist": "Hindia",
+          "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "foto_key": "pembuka"
+        },
+        {
+          "title": "Kenangan",
+          "artist": "Hindia",
+          "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "foto_key": "kenangan"
+        },
+        {
+          "title": "Penutup",
+          "artist": "Hindia",
+          "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
+          "foto_key": "penutup"
+        }
       ]
     }
   ]
