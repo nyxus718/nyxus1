@@ -7,33 +7,6 @@
   },
   "albums": [
     {
-      "name": "Perjalanan",
-      "desc": "Album",
-      "songs": [
-        {
-          "title": "Awal Perjalanan",
-          "artist": "Hindia",
-          "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
-          "lyrics": "",
-          "foto_key": "awal"
-        },
-        {
-          "title": "Tengah Jalan",
-          "artist": "Hindia",
-          "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
-          "lyrics": "",
-          "foto_key": "tengah"
-        },
-        {
-          "title": "Titik Akhir",
-          "artist": "Hindia",
-          "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
-          "lyrics": "",
-          "foto_key": "akhir"
-        }
-      ]
-    },
-    {
       "name": "Laguku",
       "desc": "Album",
       "songs": [
