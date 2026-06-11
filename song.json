@@ -1,0 +1,25 @@
+{
+  "albums": [
+    {
+      "name": "Album 1",
+      "songs": [
+        { "title": "Judul Lagu 1", "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3" },
+        { "title": "Judul Lagu 2", "url": "https://...mp3" }
+      ]
+    },
+    {
+      "name": "Album 2",
+      "songs": [
+        { "title": "Judul Lagu 3", "url": "https://...mp3" },
+        { "title": "Judul Lagu 4", "url": "https://...mp3" }
+      ]
+    },
+    {
+      "name": "Album 3",
+      "songs": [
+        { "title": "Judul Lagu 5", "url": "https://...mp3" },
+        { "title": "Judul Lagu 6", "url": "https://...mp3" }
+      ]
+    }
+  ]
+}
