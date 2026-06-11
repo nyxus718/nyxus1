@@ -7,19 +7,6 @@
   },
   "albums": [
     {
-      "name": "Doves",
-      "desc": "Single",
-      "songs": [
-        {
-          "title": "Doves",
-          "artist": "Hindia",
-          "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
-          "lyrics": "",
-          "foto_key": "doves"
-        }
-      ]
-    },
-    {
       "name": "Perjalanan",
       "desc": "Album",
       "songs": [
