@@ -7,26 +7,6 @@
   },
   "albums": [
     {
-      "name": "lhab",
-      "desc": "Single",
-      "songs": [
-        {
-          "title": "Evaluasi",
-          "artist": "Hindia",
-          "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
-          "lyrics": "",
-          "foto_key": "lhab"
-        },
-        {
-          "title": "blab",
-          "artist": "Hindia",
-          "url": "ajsj",
-          "lyrics": "",
-          "foto_key": "lhab"
-        }
-      ]
-    },
-    {
       "name": "Doves",
       "desc": "Single",
       "songs": [
