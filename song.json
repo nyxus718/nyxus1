@@ -1,23 +1,20 @@
-{
-  "foto": {
-    "lhab": "https://files.catbox.moe/rocd2v.jpg",
-    "mdb": "https://files.catbox.moe/p5nz0u.jpg",
-    "doves": "https://files.catbox.moe/cvgfw1.jpg",
-    "single": "https://raw.githubusercontent.com/nyxus718/nyxus1/main/covers/doves.jpg"
+[
+  {
+    "id": "1",
+    "title": "Kids",
+    "artist": "The Weeknd",
+    "album": "Doves '25 on blank canvas",
+    "duration": "3:01",
+    "cover": "https://files.catbox.moe/cvgfw1.jpg",
+    "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3"
   },
-  "albums": [
-    {
-      "name": "Doves '25 on blank canvas",
-      "desc": "",
-      "songs": [
-        {
-          "title": "Kids",
-          "artist": "Hindia",
-          "url": "https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260611_223258_356_n2evl1pn.mp3",
-          "lyrics": "",
-          "foto_key": "doves"
-        }
-      ]
-    }
-  ]
-}
+  {
+    "id": "2",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "album": "Divide",
+    "duration": "3:53",
+    "cover": "https://example.com/cover2.jpg",
+    "url": "https://example.com/song2.mp3"
+  }
+]
